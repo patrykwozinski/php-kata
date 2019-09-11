@@ -26,6 +26,7 @@
         "phpstan/phpstan": "^0.11.15",
         "phpstan/extension-installer": "^1.0",
         "phpstan/phpstan-deprecation-rules": "^0.11.2",
-        "phpstan/phpstan-strict-rules": "^0.11.1"
+        "phpstan/phpstan-strict-rules": "^0.11.1",
+        "phpstan/phpstan-phpunit": "^0.11.2"
     }
 }
