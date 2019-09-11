@@ -1,0 +1,12 @@
+{
+    "name": "patrykwozinski/php-kata",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Patryk Woziński",
+            "email": "patryk.wozinski@gmail.com"
+        }
+    ],
+    "require": {}
+}
