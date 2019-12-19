@@ -3,6 +3,7 @@ parameters:
     paths:
         - %currentWorkingDirectory%/src
     classesAllowedToBeExtended:
+        - Exception
         - DomainException
         - LogicException
         - InvalidArgumentException
