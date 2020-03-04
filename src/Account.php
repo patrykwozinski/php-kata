@@ -5,7 +5,7 @@ declare(strict_types=1);
 namespace Kata;
 
 
-interface Bank
+interface Account
 {
 	public function deposit(int $amount): void;
 
