@@ -10,7 +10,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Kata\\": "src/"
+            "Bank\\": "src/Bank/"
         },
         "psr-0": {
             "": "src/"
@@ -18,7 +18,7 @@
     },
     "autoload-dev": {
         "psr-4": {
-            "Tests\\Kata\\": "tests/"
+            "Tests\\Bank\\": "tests/Bank"
         }
     },
     "require": {},
